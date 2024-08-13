@@ -15,5 +15,5 @@ Tareas:
 > En caso de desear descargar cambios utiliza:
 `git pull origin main`
 
-![image] (https://github.com/fluidcon.png)
+![image] (https://github.com/fluidicon.png)
 
